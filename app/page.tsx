@@ -3,7 +3,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { motion, useAnimation, AnimatePresence, Variants } from 'framer-motion';
-import { MapPin, Phone, Mail, Youtube, Building2, Home, Settings, Trophy, Box, ChevronLeft, ChevronRight, Search } from 'lucide-react';
+import { MapPin, Phone, Mail, Building2, Home, Settings, Trophy, Box, ChevronLeft, ChevronRight, Search } from 'lucide-react';
 
 // --- Placeholder Components / Utilities ---
 
